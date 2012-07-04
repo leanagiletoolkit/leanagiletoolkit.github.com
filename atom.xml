@@ -4,7 +4,7 @@
   <title><![CDATA[leanagiletoolkit.com]]></title>
   <link href="http://leanagiletoolkit.github.com/atom.xml" rel="self"/>
   <link href="http://leanagiletoolkit.github.com/"/>
-  <updated>2012-07-04T15:23:23+01:00</updated>
+  <updated>2012-07-04T15:35:25+01:00</updated>
   <id>http://leanagiletoolkit.github.com/</id>
   <author>
     <name><![CDATA[Shaun Smith]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[the github wiki]]></title>
+    <link href="http://leanagiletoolkit.github.com/blog/2012/07/04/the-github-wiki/"/>
+    <updated>2012-07-04T15:27:00+01:00</updated>
+    <id>http://leanagiletoolkit.github.com/blog/2012/07/04/the-github-wiki</id>
+    <content type="html"><![CDATA[<p>I&#8217;ll be moving content from the <a href="http://confluence.leanagiletoolkit.com">old wiki</a> to the <a href="https://github.com/leanagiletoolkit/leanagiletoolkit.github.com/wiki">new wiki</a>.   <strong>NB</strong> Github wiki&#8217;s support <a href="https://github.com/leanagiletoolkit/leanagiletoolkit.github.com/wiki/_access">offline acccess and editing</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[leanagiletoolkit.com has moved to github!]]></title>
