@@ -7,7 +7,4 @@ categories:
 author: Shaun Smith
 ---
 
-leanagiletoolkit has moved to our [new home](https://github.com/leanagiletoolkit) on github, the plan being that github will post all projects and content.  The [old wiki](http://confluence.leanagiletoolkit.com) can still be found here for the meantime.
-
-
-
+leanagiletoolkit has moved to our [new home](https://github.com/leanagiletoolkit) on github, the plan being that github will post all projects and content.  The [old wiki](http://confluence.leanagiletoolkit.com) can still be found here for the meantime.   
